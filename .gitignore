@@ -1,0 +1,10 @@
+/.vscode
+/node_modules
+.prettierrc
+
+.ngrok.exe
+.vercel
+.vscode
+build
+/build
+.env

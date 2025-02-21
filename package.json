@@ -1,0 +1,56 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx}": "eslint"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn run lint-staged"
+    }
+  },
+  "pre-commit": [
+    "ts.check",
+    "build",
+    "add-build"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.740.0",
+    "@types/bcrypt": "^5.0.0",
+    "@types/cors": "^2.8.13",
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.4.1",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.1.2",
+    "node-fetch": "^3.3.2",
+    "p-limit": "^5.0.0",
+    "path": "^0.12.7",
+    "sequelize": "^6.30.0",
+    "sharp": "^0.33.2",
+    "url": "^0.11.4",
+    "wbm": "^1.1.16",
+    "yup": "^1.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
+}

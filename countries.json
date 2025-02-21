@@ -1,0 +1,1772 @@
+{
+    "UK": [
+      {
+        "state": "England",
+        "capital": "London",
+        "cities": [],
+        "stateCode": "ENG",
+        "countryCode": "Uk"
+      },
+      {
+        "state": "Scotland",
+        "capital": "Edinburgh",
+        "cities": [],
+        "stateCode": "SCT",
+        "countryCode": "Uk"
+      },
+      {
+        "state": "Wales",
+        "capital": "Cardiff",
+        "cities": [],
+        "stateCode": "WLS",
+        "countryCode": "Uk"
+      },
+      {
+        "state": "Northern Ireland",
+        "capital": "Belfast",
+        "cities": [],
+        "stateCode": "NIR",
+        "countryCode": "Uk"
+      }
+    ],
+    "NG": [
+      {
+        "state": "Abia",
+        "capital": "Umuahia",
+        "cities": [
+          {
+            "name": "Aba"
+          },
+          {
+            "name": "Ohafia"
+          },
+          {
+            "name": "Arochukwu"
+          },
+          {
+            "name": "Bende"
+          },
+          {
+            "name": "Isiala Ngwa"
+          },
+          {
+            "name": "Ugwunagbo"
+          }
+        ],
+        "stateCode": "AB",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Adamawa",
+        "capital": "Yola",
+        "cities": [
+          {
+            "name": "Jimeta"
+          },
+          {
+            "name": "Mubi"
+          },
+          {
+            "name": "Numan"
+          },
+          {
+            "name": "Ganye"
+          },
+          {
+            "name": "Michika"
+          },
+          {
+            "name": "Hong"
+          }
+        ],
+        "stateCode": "AD",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Akwa Ibom",
+        "capital": "Uyo",
+        "cities": [
+          {
+            "name": "Eket"
+          },
+          {
+            "name": "Ikot Ekpene"
+          },
+          {
+            "name": "Oron"
+          },
+          {
+            "name": "Abak"
+          },
+          {
+            "name": "Etinan"
+          },
+          {
+            "name": "Ikono"
+          },
+          {
+            "name": "Ibeno"
+          },
+          {
+            "name": "Mkpat-Enin"
+          },
+          {
+            "name": "Esit Eket"
+          },
+          {
+            "name": "Nsit Ibom"
+          },
+          {
+            "name": "Itu"
+          },
+          {
+            "name": "Obot Akara"
+          },
+          {
+            "name": "Ini"
+          },
+          {
+            "name": "Okobo"
+          }
+        ],
+        "countryCode": "NG"
+      },
+      {
+        "state": "Anambra",
+        "capital": "Awka",
+        "cities": [
+          {
+            "name": "Onitsha"
+          },
+          {
+            "name": "Nnewi"
+          },
+          {
+            "name": "Ekwulobia"
+          },
+          {
+            "name": "Aguata"
+          },
+          {
+            "name": "Obosi"
+          },
+          {
+            "name": "Ozubulu"
+          },
+          {
+            "name": "Ihiala"
+          },
+          {
+            "name": "Otuocha"
+          },
+          {
+            "name": "Umunze"
+          },
+          {
+            "name": "Nkpor"
+          },
+          {
+            "name": "Agulu"
+          },
+          {
+            "name": "Umuleri"
+          },
+          {
+            "name": "Nteje"
+          },
+          {
+            "name": "Dunukofia"
+          }
+        ],
+        "stateCode": "AN",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Bauchi",
+        "capital": "Bauchi",
+        "cities": [
+          {
+            "name": "Azare"
+          },
+          {
+            "name": "Misau"
+          },
+          {
+            "name": "Jama’are"
+          },
+          {
+            "name": "Ningi"
+          },
+          {
+            "name": "Katagum"
+          },
+          {
+            "name": "Toro"
+          },
+          {
+            "name": "Darazo"
+          },
+          {
+            "name": "Alkaleri"
+          },
+          {
+            "name": "Bogoro"
+          },
+          {
+            "name": "Dass"
+          },
+          {
+            "name": "Itas/Gadau"
+          },
+          {
+            "name": "Warji"
+          },
+          {
+            "name": "Zaki"
+          },
+          {
+            "name": "Ganjuwa"
+          }
+        ],
+        "stateCode": "BA",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Bayelsa",
+        "capital": "Yenagoa",
+        "cities": [
+          {
+            "name": "Brass"
+          },
+          {
+            "name": "Ogbia"
+          },
+          {
+            "name": "Nembe"
+          },
+          {
+            "name": "Amassoma"
+          },
+          {
+            "name": "Sagbama"
+          },
+          {
+            "name": "Kaiama"
+          }
+        ],
+        "stateCode": "BY",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Benue",
+        "capital": "Makurdi",
+        "cities": [
+          {
+            "name": "Gboko"
+          },
+          {
+            "name": "Otukpo"
+          },
+          {
+            "name": "Katsina-Ala"
+          },
+          {
+            "name": "Vandeikya"
+          },
+          {
+            "name": "Buruku"
+          },
+          {
+            "name": "Obudu"
+          }
+        ],
+        "stateCode": "BE",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Borno",
+        "capital": "Maiduguri",
+        "cities": [
+          {
+            "name": "Bama"
+          },
+          {
+            "name": "Dikwa"
+          },
+          {
+            "name": "Biu"
+          },
+          {
+            "name": "Monguno"
+          },
+          {
+            "name": "Gwoza"
+          },
+          {
+            "name": "Konduga"
+          }
+        ],
+        "stateCode": "BO",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Cross River",
+        "capital": "Calabar",
+        "cities": [
+          {
+            "name": "Ikom"
+          },
+          {
+            "name": "Ogoja"
+          },
+          {
+            "name": "Ugep"
+          },
+          {
+            "name": "Obudu"
+          },
+          {
+            "name": "Akpabuyo"
+          },
+          {
+            "name": "Bekwarra"
+          }
+        ],
+        "countryCode": "NG"
+      },
+      {
+        "state": "Delta",
+        "capital": "Asaba",
+        "cities": [
+          {
+            "name": "Warri"
+          },
+          {
+            "name": "Sapele"
+          },
+          {
+            "name": "Ughelli"
+          },
+          {
+            "name": "Agbor"
+          },
+          {
+            "name": "Ozoro"
+          },
+          {
+            "name": "Okpe"
+          },
+          {
+            "name": "Kwale"
+          }
+        ],
+        "stateCode": "DE",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Ebonyi",
+        "capital": "Abakaliki",
+        "cities": [
+          {
+            "name": "Afikpo"
+          },
+          {
+            "name": "Onueke"
+          },
+          {
+            "name": "Ezzamgbo"
+          },
+          {
+            "name": "Ikwo"
+          },
+          {
+            "name": "Ohaozara"
+          },
+          {
+            "name": "Ishielu"
+          }
+        ],
+        "stateCode": "EB",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Edo",
+        "capital": "Benin City",
+        "cities": [
+          {
+            "name": "Ekpoma"
+          },
+          {
+            "name": "Auchi"
+          },
+          {
+            "name": "Irrua"
+          },
+          {
+            "name": "Uromi"
+          },
+          {
+            "name": "Egor"
+          },
+          {
+            "name": "Ubiaja"
+          }
+        ],
+        "stateCode": "ED",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Ekiti",
+        "capital": "Ado Ekiti",
+        "cities": [
+          {
+            "name": "Ikere-Ekiti"
+          },
+          {
+            "name": "Iyin-Ekiti"
+          },
+          {
+            "name": "Ijero-Ekiti"
+          },
+          {
+            "name": "Oye-Ekiti"
+          },
+          {
+            "name": "Ikole-Ekiti"
+          },
+          {
+            "name": "Efon-Alaaye"
+          }
+        ],
+        "stateCode": "EK",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Enugu",
+        "capital": "Enugu",
+        "cities": [
+          {
+            "name": "Nsukka"
+          },
+          {
+            "name": "Oji River"
+          },
+          {
+            "name": "Udi"
+          },
+          {
+            "name": "Awgu"
+          },
+          {
+            "name": "Emene"
+          },
+          {
+            "name": "Ezeagu"
+          }
+        ],
+        "stateCode": "EN",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Gombe",
+        "capital": "Gombe",
+        "cities": [
+          {
+            "name": "Kumo"
+          },
+          {
+            "name": "Deba"
+          },
+          {
+            "name": "Billiri"
+          },
+          {
+            "name": "Pindiga"
+          },
+          {
+            "name": "Kaltungo"
+          },
+          {
+            "name": "Shongom"
+          }
+        ],
+        "stateCode": "GO",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Imo",
+        "capital": "Owerri",
+        "cities": [
+          {
+            "name": "Orlu"
+          },
+          {
+            "name": "Okigwe"
+          },
+          {
+            "name": "Mbaitoli"
+          },
+          {
+            "name": "Ngor Okpala"
+          },
+          {
+            "name": "Aboh Mbaise"
+          },
+          {
+            "name": "Ideato"
+          }
+        ],
+        "stateCode": "IM",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Jigawa",
+        "capital": "Dutse",
+        "cities": [
+          {
+            "name": "Hadejia"
+          },
+          {
+            "name": "Kazaure"
+          },
+          {
+            "name": "Ringim"
+          },
+          {
+            "name": "Gumel"
+          },
+          {
+            "name": "Babura"
+          },
+          {
+            "name": "Miga"
+          }
+        ],
+        "stateCode": "JI",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Kaduna",
+        "capital": "Kaduna",
+        "cities": [
+          {
+            "name": "Zaria"
+          },
+          {
+            "name": "Kafancha"
+          },
+          {
+            "name": "Samaru"
+          },
+          {
+            "name": "Makarfi"
+          },
+          {
+            "name": "Birnin Gwari"
+          },
+          {
+            "name": "Jemaa"
+          },
+          {
+            "name": "Barnawa"
+          },
+          {
+            "name": "Kawo"
+          },
+          {
+            "name": "Sabo"
+          }
+        ],
+        "stateCode": "KD",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Kano",
+        "capital": "Kano",
+        "cities": [
+          {
+            "name": "Kazaure"
+          },
+          {
+            "name": "Wudil"
+          },
+          {
+            "name": "Gabasawa"
+          },
+          {
+            "name": "Bichi"
+          },
+          {
+            "name": "Dawakin Tofa"
+          },
+          {
+            "name": "Rano"
+          },
+          {
+            "name": "Fagge"
+          },
+          {
+            "name": "Hotoro"
+          },
+          {
+            "name": "Kano City"
+          },
+          {
+            "name": "Nassarawa GRA"
+          },
+          {
+            "name": "Sabon Gari"
+          },
+          {
+            "name": "Sharada"
+          },
+          {
+            "name": "Zoo Road"
+          }
+        ],
+        "stateCode": "KN",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Katsina",
+        "capital": "Katsina",
+        "cities": [
+          {
+            "name": "Funtua"
+          },
+          {
+            "name": "Daura"
+          },
+          {
+            "name": "Malumfashi"
+          },
+          {
+            "name": "Zango"
+          },
+          {
+            "name": "Mashi"
+          },
+          {
+            "name": "Dutsin Ma"
+          }
+        ],
+        "stateCode": "KT",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Kebbi",
+        "capital": "Birnin Kebbi",
+        "cities": [
+          {
+            "name": "Argungu"
+          },
+          {
+            "name": "Suru"
+          },
+          {
+            "name": "Zuru"
+          },
+          {
+            "name": "Dakingari"
+          },
+          {
+            "name": "Jega"
+          },
+          {
+            "name": "Kangiwa"
+          }
+        ],
+        "stateCode": "KE",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Kogi",
+        "capital": "Lokoja",
+        "cities": [
+          {
+            "name": "Okene"
+          },
+          {
+            "name": "Kabba"
+          },
+          {
+            "name": "Anyigba"
+          },
+          {
+            "name": "Idah"
+          },
+          {
+            "name": "Ajao"
+          },
+          {
+            "name": "Bassa"
+          }
+        ],
+        "stateCode": "KO",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Kwara",
+        "capital": "Ilorin",
+        "cities": [
+          {
+            "name": "Offa"
+          },
+          {
+            "name": "Omu Aran"
+          },
+          {
+            "name": "Kabba"
+          },
+          {
+            "name": "Lafiagi"
+          },
+          {
+            "name": "Ile Oluji"
+          },
+          {
+            "name": "Ejidongaran"
+          }
+        ],
+        "stateCode": "KW",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Lagos",
+        "capital": "Ikeja",
+        "cities": [
+          {
+            "name": "Lekki"
+          },
+          {
+            "name": "Festac"
+          },
+          {
+            "name": "Badagry"
+          },
+          {
+            "name": "Lagos Mainland"
+          },
+          {
+            "name": "Lagos Island"
+          },
+          {
+            "name": "Ikorodu"
+          },
+          {
+            "name": "Surulere"
+          },
+          {
+            "name": "Ajah"
+          },
+          {
+            "name": "Egbeda"
+          },
+          {
+            "name": "Yaba"
+          },
+          {
+            "name": "Agege"
+          },
+          {
+            "name": "Magodo"
+          },
+          {
+            "name": "Ikeja"
+          },
+          {
+            "name": "Ojo"
+          },
+          {
+            "name": "Gbagada"
+          },
+          {
+            "name": "Victoria - Ikoyi"
+          }
+        ],
+        "stateCode": "LA",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Nasarawa",
+        "capital": "Lafia",
+        "cities": [
+          {
+            "name": "Akwanga"
+          },
+          {
+            "name": "Keffi"
+          },
+          {
+            "name": "Nasarawa"
+          },
+          {
+            "name": "Doma"
+          },
+          {
+            "name": "Wamba"
+          },
+          {
+            "name": "Toto"
+          }
+        ],
+        "stateCode": "NA",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Niger",
+        "capital": "Minna",
+        "cities": [
+          {
+            "name": "Suleja"
+          },
+          {
+            "name": "Kontagora"
+          },
+          {
+            "name": "Bida"
+          },
+          {
+            "name": "Lapai"
+          },
+          {
+            "name": "New Bussa"
+          },
+          {
+            "name": "Wushishi"
+          }
+        ],
+        "stateCode": "NI",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Ogun",
+        "capital": "Abeokuta",
+        "cities": [
+          {
+            "name": "Ijebu Ode"
+          },
+          {
+            "name": "Ota"
+          },
+          {
+            "name": "Sango Ota"
+          },
+          {
+            "name": "Sagamu"
+          },
+          {
+            "name": "Ilaro"
+          },
+          {
+            "name": "Yewa"
+          }
+        ],
+        "stateCode": "OG",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Ondo",
+        "capital": "Akure",
+        "cities": [
+          {
+            "name": "Okitipupa"
+          },
+          {
+            "name": "Ondo"
+          },
+          {
+            "name": "Ikare Akoko"
+          },
+          {
+            "name": "Igbara Oke"
+          },
+          {
+            "name": "Emure Ile"
+          },
+          {
+            "name": "Ile Oluji"
+          }
+        ],
+        "stateCode": "ON",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Osun",
+        "capital": "Osogbo",
+        "cities": [
+          {
+            "name": "Ife"
+          },
+          {
+            "name": "Ilesa"
+          },
+          {
+            "name": "Ede"
+          },
+          {
+            "name": "Ikirun"
+          },
+          {
+            "name": "Iwo"
+          }
+        ],
+        "stateCode": "OS",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Oyo",
+        "capital": "Ibadan",
+        "cities": [
+          {
+            "name": "Shaki"
+          },
+          {
+            "name": "Iseyin"
+          },
+          {
+            "name": "Eruwa"
+          },
+          {
+            "name": "Akinyele"
+          },
+          {
+            "name": "Oyo"
+          },
+          {
+            "name": "Ibadan"
+          },
+          {
+            "name": "Ogbomosho"
+          }
+        ],
+        "stateCode": "OY",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Plateau",
+        "capital": "Jos",
+        "cities": [
+          {
+            "name": "Barkin Ladi"
+          },
+          {
+            "name": "Langtang"
+          },
+          {
+            "name": "Pankshin"
+          },
+          {
+            "name": "Shendam"
+          },
+          {
+            "name": "Mangu"
+          },
+          {
+            "name": "Bokkos"
+          },
+          {
+            "name": "Riyom"
+          },
+          {
+            "name": "Vom"
+          },
+          {
+            "name": "Kwande"
+          }
+        ],
+        "stateCode": "PL",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Rivers",
+        "capital": "Port Harcourt",
+        "cities": [
+          {
+            "name": "Bonny"
+          },
+          {
+            "name": "Bori"
+          },
+          {
+            "name": "Eleme"
+          },
+          {
+            "name": "Ahoada"
+          },
+          {
+            "name": "Omoku"
+          },
+          {
+            "name": "Okrika"
+          },
+          {
+            "name": "Degema"
+          },
+          {
+            "name": "Obio-Akpor"
+          },
+          {
+            "name": "Opobo"
+          },
+          {
+            "name": "Rivers"
+          },
+          {
+            "name": "Port Harcourt"
+          },
+          {
+            "name": "Bonny Island"
+          }
+        ],
+        "stateCode": "RI",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Sokoto",
+        "capital": "Sokoto",
+        "cities": [
+          {
+            "name": "Tambuwal"
+          },
+          {
+            "name": "Wurno"
+          },
+          {
+            "name": "Gwadabawa"
+          },
+          {
+            "name": "Illela"
+          },
+          {
+            "name": "Binji"
+          },
+          {
+            "name": "Bodinga"
+          },
+          {
+            "name": "Gada"
+          },
+          {
+            "name": "Kebbe"
+          },
+          {
+            "name": "Yabo"
+          }
+        ],
+        "stateCode": "SO",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Taraba",
+        "capital": "Jalingo",
+        "cities": [
+          {
+            "name": "Wukari"
+          },
+          {
+            "name": "Takum"
+          },
+          {
+            "name": "Gembu"
+          },
+          {
+            "name": "Bali"
+          },
+          {
+            "name": "Ibi"
+          },
+          {
+            "name": "Zing"
+          },
+          {
+            "name": "Karin Lamido"
+          },
+          {
+            "name": "Serti"
+          },
+          {
+            "name": "Mutum Biyu"
+          }
+        ],
+        "stateCode": "TA",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Yobe",
+        "capital": "Damaturu",
+        "cities": [
+          {
+            "name": "Potiskum"
+          },
+          {
+            "name": "Gashua"
+          },
+          {
+            "name": "Nguru"
+          },
+          {
+            "name": "Geidam"
+          },
+          {
+            "name": "Buni Yadi"
+          },
+          {
+            "name": "Gujba"
+          },
+          {
+            "name": "Machina"
+          },
+          {
+            "name": "Fika"
+          },
+          {
+            "name": "Jakusko"
+          }
+        ],
+        "stateCode": "YO",
+        "countryCode": "NG"
+      },
+      {
+        "state": "Zamfara",
+        "capital": "Gusau",
+        "cities": [
+          {
+            "name": "Kaura Namoda"
+          },
+          {
+            "name": "Talata Mafara"
+          },
+          {
+            "name": "Anka"
+          },
+          {
+            "name": "Bungudu"
+          },
+          {
+            "name": "Maru"
+          },
+          {
+            "name": "Zurmi"
+          },
+          {
+            "name": "Shinkafi"
+          },
+          {
+            "name": "Bakura"
+          },
+          {
+            "name": "Tsafe"
+          }
+        ],
+        "stateCode": "ZA",
+        "countryCode": "NG"
+      },
+      {
+        "state": "FCT",
+        "capital": "Abuja",
+        "cities": [
+          {
+            "name": "Garki"
+          },
+          {
+            "name": "Jabi"
+          },
+          {
+            "name": "Wuse"
+          },
+          {
+            "name": "Maitama"
+          },
+          {
+            "name": "Asokoro"
+          },
+          {
+            "name": "Gwarinpa"
+          },
+          {
+            "name": "Utako"
+          },
+          {
+            "name": "CBU"
+          },
+          {
+            "name": "Abuja Airport"
+          },
+          {
+            "name": "Abuja Apo"
+          },
+          {
+            "name": "Mines"
+          }
+        ],
+        "stateCode": "FC",
+        "countryCode": "NG"
+      }
+    ],
+    "CA": [
+      {
+        "state": "Alberta",
+        "capital": "Edmonton",
+        "cities": [],
+        "stateCode": "AB",
+        "countryCode": "CA"
+      },
+      {
+        "state": "British Columbia",
+        "capital": "Victoria",
+        "cities": [],
+        "countryCode": "CA",
+        "stateCode": "BC"
+      },
+      {
+        "state": "Manitoba",
+        "capital": "Winnipeg",
+        "cities": [],
+        "stateCode": "MB",
+        "countryCode": "CA"
+      },
+      {
+        "state": "New Brunswick",
+        "capital": "Fredericton",
+        "cities": [],
+        "countryCode": "CA",
+        "stateCode": "NB"
+      },
+      {
+        "state": "Newfoundland and Labrador",
+        "capital": "St. John's",
+        "cities": [],
+        "countryCode": "CA"
+      },
+      {
+        "state": "Nova Scotia",
+        "capital": "Halifax",
+        "cities": [],
+        "countryCode": "CA",
+        "stateCode": "NS"
+      },
+      {
+        "state": "Ontario",
+        "capital": "Toronto",
+        "cities": [],
+        "stateCode": "ON",
+        "countryCode": "CA"
+      },
+      {
+        "state": "Prince Edward Island",
+        "capital": "Charlottetown",
+        "cities": [],
+        "countryCode": "CA",
+        "stateCode": "PE"
+      },
+      {
+        "state": "Quebec",
+        "capital": "Quebec City",
+        "cities": [],
+        "stateCode": "QC",
+        "countryCode": "CA"
+      },
+      {
+        "state": "Saskatchewan",
+        "capital": "Regina",
+        "cities": [],
+        "stateCode": "SK",
+        "countryCode": "CA"
+      },
+      {
+        "state": "Northwest Territories",
+        "capital": "Yellowknife",
+        "cities": [],
+        "countryCode": "CA",
+        "stateCode": "NT"
+      },
+      {
+        "state": "Nunavut",
+        "capital": "Iqaluit",
+        "cities": [],
+        "stateCode": "NU",
+        "countryCode": "CA"
+      },
+      {
+        "state": "Yukon",
+        "capital": "Whitehorse",
+        "cities": [],
+        "stateCode": "YT",
+        "countryCode": "CA"
+      }
+    ],
+    "US": [
+      {
+        "state": "Alabama",
+        "capital": "Montgomery",
+        "cities": [
+          {
+            "name": "Jefferson County"
+          },
+          {
+            "name": "Mobile County"
+          },
+          {
+            "name": "Madison County"
+          },
+          {
+            "name": "Montgomery County"
+          },
+          {
+            "name": "Shelby County"
+          },
+          {
+            "name": "Tuscaloosa County"
+          },
+          {
+            "name": "Baldwin County"
+          },
+          {
+            "name": "Lee County"
+          },
+          {
+            "name": "Morgan County"
+          },
+          {
+            "name": "Calhoun County"
+          }
+        ],
+        "county": true,
+        "stateCode": "AL",
+        "countryCode": "US"
+      },
+      {
+        "state": "Alaska",
+        "capital": "Juneau",
+        "cities": [],
+        "county": true,
+        "stateCode": "AK",
+        "countryCode": "US"
+      },
+      {
+        "state": "Arizona",
+        "capital": "Phoenix",
+        "cities": [],
+        "county": true,
+        "stateCode": "AZ",
+        "countryCode": "US"
+      },
+      {
+        "state": "Arkansas",
+        "capital": "Little Rock",
+        "cities": [],
+        "county": true,
+        "stateCode": "AR",
+        "countryCode": "US"
+      },
+      {
+        "state": "California",
+        "capital": "Sacramento",
+        "cities": [],
+        "county": true,
+        "stateCode": "CA",
+        "countryCode": "US"
+      },
+      {
+        "state": "Colorado",
+        "capital": "Denver",
+        "cities": [],
+        "county": true,
+        "stateCode": "CO",
+        "countryCode": "US"
+      },
+      {
+        "state": "Connecticut",
+        "capital": "Hartford",
+        "cities": [],
+        "county": true,
+        "stateCode": "CT",
+        "countryCode": "US"
+      },
+      {
+        "state": "Delaware",
+        "capital": "Dover",
+        "cities": [],
+        "county": true,
+        "stateCode": "DE",
+        "countryCode": "US"
+      },
+      {
+        "state": "Florida",
+        "capital": "Tallahassee",
+        "cities": [],
+        "county": true,
+        "stateCode": "FL",
+        "countryCode": "US"
+      },
+      {
+        "state": "Georgia",
+        "capital": "Atlanta",
+        "cities": [
+          {
+            "name": "Fulton County"
+          },
+          {
+            "name": "Gwinnett County"
+          },
+          {
+            "name": "DeKalb County"
+          },
+          {
+            "name": "Cobb County"
+          },
+          {
+            "name": "Chatham County"
+          },
+          {
+            "name": "Clayton County"
+          },
+          {
+            "name": "Cherokee County"
+          },
+          {
+            "name": "Henry County"
+          },
+          {
+            "name": "Hall County"
+          },
+          {
+            "name": "Forsyth County"
+          },
+          {
+            "name": "Richmond County"
+          },
+          {
+            "name": "Muscogee County"
+          },
+          {
+            "name": "Bibb County"
+          },
+          {
+            "name": "Paulding County"
+          },
+          {
+            "name": "Houston County"
+          }
+        ],
+        "county": true,
+        "stateCode": "GA",
+        "countryCode": "US"
+      },
+      {
+        "state": "Hawaii",
+        "capital": "Honolulu",
+        "cities": [],
+        "county": true,
+        "stateCode": "HI",
+        "countryCode": "US"
+      },
+      {
+        "state": "Idaho",
+        "capital": "Boise",
+        "cities": [],
+        "county": true,
+        "stateCode": "ID",
+        "countryCode": "US"
+      },
+      {
+        "state": "Illinois",
+        "capital": "Springfield",
+        "cities": [],
+        "county": true,
+        "stateCode": "IL",
+        "countryCode": "US"
+      },
+      {
+        "state": "Indiana",
+        "capital": "Indianapolis",
+        "cities": [
+          {
+            "name": " "
+          }
+        ],
+        "county": true,
+        "stateCode": "IN",
+        "countryCode": "US"
+      },
+      {
+        "state": "Iowa",
+        "capital": "Des Moines",
+        "cities": [],
+        "county": true,
+        "stateCode": "IA",
+        "countryCode": "US"
+      },
+      {
+        "state": "Kansas",
+        "capital": "Topeka",
+        "cities": [],
+        "county": true,
+        "stateCode": "KS",
+        "countryCode": "US"
+      },
+      {
+        "state": "Kentucky",
+        "capital": "Frankfort",
+        "cities": [],
+        "county": true,
+        "stateCode": "KY",
+        "countryCode": "US"
+      },
+      {
+        "state": "Louisiana",
+        "capital": "Baton Rouge",
+        "cities": [],
+        "county": true,
+        "stateCode": "LA",
+        "countryCode": "US"
+      },
+      {
+        "state": "Maine",
+        "capital": "Augusta",
+        "cities": [],
+        "county": true,
+        "stateCode": "ME",
+        "countryCode": "US"
+      },
+      {
+        "state": "Maryland",
+        "capital": "Annapolis",
+        "cities": [],
+        "county": true,
+        "stateCode": "MD",
+        "countryCode": "US"
+      },
+      {
+        "state": "Massachusetts",
+        "capital": "Boston",
+        "cities": [],
+        "county": true,
+        "stateCode": "MA",
+        "countryCode": "US"
+      },
+      {
+        "state": "Michigan",
+        "capital": "Lansing",
+        "cities": [],
+        "county": true,
+        "stateCode": "MI",
+        "countryCode": "US"
+      },
+      {
+        "state": "Minnesota",
+        "capital": "Saint Paul",
+        "cities": [],
+        "county": true,
+        "stateCode": "MN",
+        "countryCode": "US"
+      },
+      {
+        "state": "Mississippi",
+        "capital": "Jackson",
+        "cities": [],
+        "county": true,
+        "stateCode": "MS",
+        "countryCode": "US"
+      },
+      {
+        "state": "Missouri",
+        "capital": "Jefferson City",
+        "cities": [],
+        "county": true,
+        "stateCode": "MO",
+        "countryCode": "US"
+      },
+      {
+        "state": "Montana",
+        "capital": "Helena",
+        "cities": [],
+        "county": true,
+        "stateCode": "MT",
+        "countryCode": "US"
+      },
+      {
+        "state": "Nebraska",
+        "capital": "Lincoln",
+        "cities": [],
+        "county": true,
+        "stateCode": "NE",
+        "countryCode": "US"
+      },
+      {
+        "state": "Nevada",
+        "capital": "Carson City",
+        "cities": [],
+        "county": true,
+        "stateCode": "NV",
+        "countryCode": "US"
+      },
+      {
+        "state": "New Hampshire",
+        "capital": "Concord",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "New Jersey",
+        "capital": "Trenton",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "New Mexico",
+        "capital": "Santa Fe",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "New York",
+        "capital": "Albany",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "North Carolina",
+        "capital": "Raleigh",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "North Dakota",
+        "capital": "Bismarck",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "Ohio",
+        "capital": "Columbus",
+        "cities": [],
+        "county": true,
+        "stateCode": "OH",
+        "countryCode": "US"
+      },
+      {
+        "state": "Oklahoma",
+        "capital": "Oklahoma City",
+        "cities": [],
+        "county": true,
+        "stateCode": "OK",
+        "countryCode": "US"
+      },
+      {
+        "state": "Oregon",
+        "capital": "Salem",
+        "cities": [],
+        "county": true,
+        "stateCode": "OR",
+        "countryCode": "US"
+      },
+      {
+        "state": "Pennsylvania",
+        "capital": "Harrisburg",
+        "cities": [],
+        "county": true,
+        "stateCode": "PA",
+        "countryCode": "US"
+      },
+      {
+        "state": "Rhode Island",
+        "capital": "Providence",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "South Carolina",
+        "capital": "Columbia",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "South Dakota",
+        "capital": "Pierre",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "Tennessee",
+        "capital": "Nashville",
+        "cities": [],
+        "county": true,
+        "stateCode": "TN",
+        "countryCode": "US"
+      },
+      {
+        "state": "Texas",
+        "capital": "Austin",
+        "cities": [],
+        "county": true,
+        "stateCode": "TX",
+        "countryCode": "US"
+      },
+      {
+        "state": "Utah",
+        "capital": "Salt Lake City",
+        "cities": [],
+        "county": true,
+        "stateCode": "UT",
+        "countryCode": "US"
+      },
+      {
+        "state": "Vermont",
+        "capital": "Montpelier",
+        "cities": [],
+        "county": true,
+        "stateCode": "VT",
+        "countryCode": "US"
+      },
+      {
+        "state": "Virginia",
+        "capital": "Richmond",
+        "cities": [],
+        "county": true,
+        "stateCode": "VA",
+        "countryCode": "US"
+      },
+      {
+        "state": "Washington",
+        "capital": "Olympia",
+        "cities": [],
+        "county": true,
+        "stateCode": "WA",
+        "countryCode": "US"
+      },
+      {
+        "state": "West Virginia",
+        "capital": "Charleston",
+        "cities": [],
+        "county": true,
+        "countryCode": "US"
+      },
+      {
+        "state": "Wisconsin",
+        "capital": "Madison",
+        "cities": [],
+        "county": true,
+        "stateCode": "WI",
+        "countryCode": "US"
+      },
+      {
+        "state": "Wyoming",
+        "capital": "Cheyenne",
+        "cities": [],
+        "county": true,
+        "stateCode": "WY",
+        "countryCode": "US"
+      }
+    ]
+  }
