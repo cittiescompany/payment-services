@@ -1,6 +1,6 @@
 import 'dotenv/config';
-import User from '../models/user.js';
 import { verify_jwt } from '../helpers/auth.js';
+
 
 export const authenticate = async (req, res, next) => {
   try {
