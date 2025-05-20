@@ -3,11 +3,11 @@ import 'dotenv/config';
 import mysql2 from 'mysql2';
 
 const database_config = {
-  HOST: process.env.DATABASE_HOST || '',
-  USER: process.env.DATABASE_USER || '',
+  HOST: process.env.DATABASE_HOST || 'localhost',
+  USER: process.env.DATABASE_USER || 'root',
   PASSWORD: process.env.DATABASE_PASSWORD || '',
   DATABASENAME: process.env.DATABASE_NAME || 'payment',
-  DIALECT: process.env.DATABASE_DIALECT || '',
+  DIALECT: process.env.DATABASE_DIALECT || 'mysql',
   STORAGEBUCKET: process.env.STORAGEBUCKET || '',
 };
 

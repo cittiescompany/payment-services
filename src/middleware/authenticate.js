@@ -14,13 +14,14 @@ export const authenticate = async (req, res, next) => {
       return res
         .status(401)
         .json({ message: 'unauthorized!!!', status: false });
+
     const data = await verify_jwt(token[1], process.env.USERJWTLOGIN);
     if (!data)
       return res.status(401).json({ message: 'Token expired', status: false });
     res.locals.user=data
     next();
   } catch (error) {
-    console.log(error);
+    console.log(error.message);
     return res
       .status(401)
       .json({ message: 'unauthorize access', status: false });

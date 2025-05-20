@@ -1,9 +1,11 @@
 import express from 'express';
 import cors from 'cors';
-import 'dotenv/config';
-import routes from './routes.js';
+// import 'dotenv/config';
+import dotenv from 'dotenv';
+ dotenv.config();
+import routes from './src/routes.js';
 
-import { testConnection,sequelize } from './connection/index.js';
+import { testConnection,sequelize } from './src/connection/index.js';
 
 
 const APP = express();
@@ -28,9 +30,6 @@ APP.use(
     console.log(err.message);
   }
 })();
-
-
-
 APP.get('/', (req, res, next) => {
   try {
     res.status(200).json({
@@ -42,7 +41,7 @@ APP.get('/', (req, res, next) => {
   }
 });
 
-APP.use("/payment", routes);
+APP.use("/", routes);
 
 
 const PORT = process.env.PORT || 9000;

@@ -11,10 +11,23 @@ Transaction.init(
       primaryKey: true,
     },
     type: {
-      type: DataTypes.TEXT,
+      type: DataTypes.STRING,
+      allowNull: true,
+      defaultValue:"payment"
+    },
+    receiver: {
+      type: DataTypes.UUID,
       allowNull: true,
     },
-    user_id: {
+    sender: {
+      type: DataTypes.UUID,
+      allowNull: true,
+    },
+    item_id: {
+      type: DataTypes.UUID,
+      allowNull: true,
+    },
+    post_id: {
       type: DataTypes.UUID,
       allowNull: true,
     },
@@ -22,9 +35,25 @@ Transaction.init(
       type: DataTypes.DECIMAL(10, 2),
       allowNull: true,
     },
-    status: {
-      type: DataTypes.TEXT,
+    description: {
+      type: DataTypes.STRING,
       allowNull: true,
+    },
+    ref: {
+      type: DataTypes.STRING,
+      allowNull: true,
+    },
+    is_transfer: {
+      type: DataTypes.STRING,
+      allowNull: true,
+    },
+    // available: {
+    //   type: DataTypes.BOOLEAN,
+    //   defaultValue:false,
+    // },
+    status: {
+      type: DataTypes.BOOLEAN,
+      defaultValue:false,
     },
   },
 
