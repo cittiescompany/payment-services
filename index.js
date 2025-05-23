@@ -41,7 +41,7 @@ APP.get('/', (req, res, next) => {
   }
 });
 
-APP.use("/", routes);
+APP.use("/payment", routes);
 
 
 const PORT = process.env.PORT || 9000;
